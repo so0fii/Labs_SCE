@@ -10,6 +10,68 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/lab1/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/lab1/vendor/composer" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/lab1/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/lab1/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/lab1/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/lab1/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/lab1/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/polyfill-php85" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/lab1/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/lab1/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/composer" />
+    </include_path>
+  </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
