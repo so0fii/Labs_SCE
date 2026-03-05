@@ -19,11 +19,11 @@ class DefaultController extends AbstractController
     #[Route('/hello/demo', name: 'app_hello_demo')]
     public function helloDemo(): Response
     {
-        $firstCar = $this->carRepository->find(1);
+        $allCars = $this->carRepository->findAll();
         return $this->render(
             'demo/hello_demo.html.twig',
             [
-                'text' => $firstCar->getName(),
+                'cars' => $allCars,
             ]
         );
     }
